@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="6" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
+		<Children>
+			<Child Name="Sys" Key="{1D86E465-1DBE-4E74-B5C1-27185BEAE5DC}" ParallelWalk="True">
+				<Properties>
+					<Property Name="Name">
+						<Value PropertyType="0" Value="Sys" Type="5" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{EB4C8DD6-E71E-4EED-ADA2-CB8A381EF661}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value PropertyType="0" Value="Browser" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageAktuLneSpravodajstvoNaSloven" Key="{0F39D30C-641C-45CD-8CC8-C19FF79C165C}" ParallelWalk="True">
+								<Image FileName="1768089634" Left="0" Top="103" Right="1919" Bottom="1040" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://www.aktuality.sk/" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelPage" Key="{9EF38B98-B04B-4F8B-8AB0-5FD64E0E5DF5}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1768089634" Left="0" Top="103" Right="1903" Bottom="12738" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="page" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="header" Key="{33F2867C-A65F-43B7-9163-0C27A7E2C9B4}" ParallelWalk="True">
+												<Image FileName="1768089634" Left="0" Top="103" Right="1903" Bottom="212" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Header" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="nav" Key="{2672E00C-564C-4CFC-BE84-C9416AB61419}" ParallelWalk="True">
+														<Image FileName="1768089634" Left="0" Top="177" Right="1903" Bottom="212" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Nav" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="navAktualityMenuSearch" Key="{2D09F9C5-A3CB-4E68-B489-EB8A96A24FB6}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1768089634" Left="1583" Top="180" Right="1612" Bottom="204" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Nav" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="aktuality-menu-search" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="formSearchForm" Key="{2E402342-6785-4DB8-90A0-ECE1A0BCE819}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1768089634" Left="1583" Top="180" Right="1612" Bottom="204" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Form" Type="5" />
+																			</Property>
+																			<Property Name="idStr">
+																				<Value PropertyType="0" Value="search-form" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panel" Key="{17B58C67-7BF2-45C0-8165-3627CCB744D0}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="1768089634" Left="1583" Top="180" Right="1612" Bottom="208" />
+																				<TypeInfo Item0="{62CD05BD-F597-4832-97B1-5C44D17021E1}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="textboxSearchInput" Key="{2134F4D9-48EA-4889-B807-321A32178A5E}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="2032750414" Left="1148" Top="180" Right="1611" Bottom="209" />
+																						<TypeInfo Item0="{B04B24A6-5765-4AB8-8BA9-4F9DCE9D3A61}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Textbox" Type="5" />
+																							</Property>
+																							<Property Name="idStr">
+																								<Value PropertyType="0" Value="search-input" Type="5" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwAktualitySkVyhladavanieQD" Key="{FB168305-D71F-42CC-BE27-A43029503E21}" ParallelWalk="True">
+								<Image FileName="1768089634" Left="0" Top="103" Right="1919" Bottom="1040" />
+								<TypeInfo Item0="{E5EC849B-F7B0-49FF-9E0E-A8784F5A5121}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://www.aktuality.sk/vyhladavanie/*" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelPage" Key="{7BF28B48-BA8C-4FF3-9A3C-741A27DCBEE1}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-849810660" Left="0" Top="-1772" Right="1903" Bottom="3858" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="page" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{051E18DB-FF4F-4339-BB8E-AC015CF354EA}" ParallelWalk="True">
+												<Image FileName="-849810660" Left="0" Top="-1641" Right="1903" Bottom="3652" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panel" Key="{599ADDE2-443D-4850-83E2-D4361EFB03AD}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-849810660" Left="0" Top="-1157" Right="1903" Bottom="3652" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{0ACECFB3-5281-4E4E-A957-DE4643694B3F}" ParallelWalk="True">
+																<Image FileName="-849810660" Left="280" Top="-1157" Right="1622" Bottom="3652" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panel" Key="{D4C4EEAE-391F-4101-B36B-9927AD3F5E3C}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-849810660" Left="292" Top="-1157" Right="1612" Bottom="2112" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="section" Key="{540E80D6-FC0A-4C96-AE0E-1BA470544EF9}" ParallelWalk="True">
+																				<Image FileName="-849810660" Left="292" Top="-1157" Right="1282" Bottom="2112" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Section" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="link" Key="{9372783A-C22F-41DF-8B51-ED76AED4E93D}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="-849810660" Left="622" Top="495" Right="1260" Bottom="528" />
+																						<TypeInfo Item0="{62CD05BD-F597-4832-97B1-5C44D17021E1}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Link" Type="5" />
+																							</Property>
+																							<Property Name="href">
+																								<Value PropertyType="0" Value="https://www.aktuality.sk/clanok/566865/firmy-eset-a-accenture-vystupili-z-it-asociacie/" Type="5" />
+																							</Property>
+																							<Property Name="contentText">
+																								<Value PropertyType="0" Value="Firmy Eset a Accenture vystúpili z IT asociácie" Type="5" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageWwwAktualitySkClanok566865Fi" Key="{E6F34472-E8BC-4A55-B8AA-62DB084D9677}" ParallelWalk="True">
+								<Image FileName="1768089634" Left="0" Top="103" Right="1919" Bottom="1040" />
+								<TypeInfo Item0="{E5EC849B-F7B0-49FF-9E0E-A8784F5A5121}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://www.aktuality.sk/clanok/566865/firmy-eset-a-accenture-vystupili-z-it-asociacie/" Type="5" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{EB4C8DD6-E71E-4EED-ADA2-CB8A381EF661}">
+			<Child Name="pageAktuLneSpravodajstvoNaSloven" Owner="{0F39D30C-641C-45CD-8CC8-C19FF79C165C}">
+				<Child Name="panelPage" Owner="{9EF38B98-B04B-4F8B-8AB0-5FD64E0E5DF5}">
+					<Child Name="header" Owner="{33F2867C-A65F-43B7-9163-0C27A7E2C9B4}">
+						<Child Name="nav" Owner="{2672E00C-564C-4CFC-BE84-C9416AB61419}">
+							<Child Name="navAktualityMenuSearch" Owner="{2D09F9C5-A3CB-4E68-B489-EB8A96A24FB6}">
+								<Child Name="formSearchForm" Owner="{2E402342-6785-4DB8-90A0-ECE1A0BCE819}">
+									<Child Name="panel" Owner="{17B58C67-7BF2-45C0-8165-3627CCB744D0}">
+										<Child Name="textboxSearchInput" Owner="{2134F4D9-48EA-4889-B807-321A32178A5E}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwAktualitySkVyhladavanieQD" Owner="{FB168305-D71F-42CC-BE27-A43029503E21}">
+				<Child Name="panelPage" Owner="{7BF28B48-BA8C-4FF3-9A3C-741A27DCBEE1}">
+					<Child Name="panel" Owner="{051E18DB-FF4F-4339-BB8E-AC015CF354EA}">
+						<Child Name="panel" Owner="{599ADDE2-443D-4850-83E2-D4361EFB03AD}">
+							<Child Name="panel" Owner="{0ACECFB3-5281-4E4E-A957-DE4643694B3F}">
+								<Child Name="panel" Owner="{D4C4EEAE-391F-4101-B36B-9927AD3F5E3C}">
+									<Child Name="section" Owner="{540E80D6-FC0A-4C96-AE0E-1BA470544EF9}">
+										<Child Name="link" Owner="{9372783A-C22F-41DF-8B51-ED76AED4E93D}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageWwwAktualitySkClanok566865Fi" Owner="{E6F34472-E8BC-4A55-B8AA-62DB084D9677}" />
+		</Child>
+	</LogicalNodes>
+	<TypeInfo StoreCodeCompletion="1">
+		<Child Hash="-799264832" Key="{62CD05BD-F597-4832-97B1-5C44D17021E1}">
+			<Data Properties="D4C3627BD996AF4D818835298F55E579UFFFFFFFFFFFFFFFFV4L7ZZY">
+				<FunctionDescriptions>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="707330344" Key="{B04B24A6-5765-4AB8-8BA9-4F9DCE9D3A61}">
+			<Data Properties="12A875F69EDC734097403A2B0190590DUFFFFFFFFFFFFFFFFV4LAZZY">
+				<FunctionDescriptions>
+					<Child Name="SetText" Doc="Enters text in the text box." IsBasic="True" Param0="Text" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Text" IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="wText" IsBasic="True" Data="ZI4L2L4ZO8Z04L">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-1187879528" Key="{E5EC849B-F7B0-49FF-9E0E-A8784F5A5121}">
+			<Data Properties="498F98906CE9BE4097D5804440D0ACF8UFFFFFFFFFFFFFFFFV4L8ZZY">
+				<FunctionDescriptions>
+					<Child Name="Close" Doc="Closes a page open in the browser." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+	</TypeInfo>
+</Root>
